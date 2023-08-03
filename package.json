@@ -1,0 +1,15 @@
+{
+    "name": "nuxt-app",
+    "private": true,
+    "scripts": {
+      "build": "nuxt build"
+    },
+    "devDependencies": {
+      "nuxt": "^3.6.5"
+    },
+    "dependencies": {
+      "axios": "^0.27.2",
+      "node-ical": "^0.16.0",
+      "tsoa": "^5.1.1"
+    }
+  }
